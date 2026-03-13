@@ -94,7 +94,7 @@
         "10%": 0.1,
         "off": 0
       },
-      "defaultVariant": "off"
+      "defaultVariant": "90%"
     },
     "paymentUnreachable": {
       "description": "Payment service is unavailable",
@@ -132,7 +132,6 @@
         "off": false
       },
       "defaultVariant": "off"
-
     },
     "emailMemoryLeak": {
       "description": "Memory leak in the email service.",
